@@ -58,7 +58,7 @@ data$size <- sapply(data$diameter, function(d) {
 })
 ```
 
-Since the diameter of objects in the table coorespond to a range of values, we take the mean value of the low and high range to calculate an average size.
+Since the diameter of objects in the table cooresponds to a range of values, we take the mean value of the low and high range to calculate an average size.
 
 ## Size vs Velocity
 
