@@ -17,7 +17,7 @@ The analysis shows that the 2015 TB145 asteroid is a particular outlier in the c
 
 ## Data Processing
 
-The data source comes from the table of near Earth objects on the NASA JPL NEO Close Approach [web site](http://neo.jpl.nasa.gov/ca/). The table of data was extracted and saved to a tab-separated [file](https://raw.githubusercontent.com/primaryobjects/asteroids/master/asteroids.tsv), which can be processsed as shown below. Full source code for this analysis is available [online](https://github.com/primaryobjects/asteroids/blob/master/asteroids.Rmd).
+The data source comes from the table of near Earth objects on the NASA JPL NEO Close Approach [web site](http://neo.jpl.nasa.gov/ca/). The table of data was extracted and saved to a tab-separated [file](https://raw.githubusercontent.com/primaryobjects/asteroids/master/asteroids.tsv), which can be processsed as shown below. Full source code for this analysis is available [online](https://github.com/primaryobjects/asteroids).
 
 ```{r}
 library(stringr)
