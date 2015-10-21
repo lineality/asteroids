@@ -64,7 +64,7 @@ We can visualize the data with regard to diameter and velocity by plotting the o
 
 ![](asteroids_files/figure-html/unnamed-chunk-2-1.png) 
 
-*Figure 1a. Visualizing the near Earth object database as velocity by diameter. The asteroid 2015 TB145 represents the fastest moving object in the dataset at 34.95 kb/s.*
+*Figure 1. Visualizing the near Earth object database as velocity by diameter. The asteroid 2015 TB145 represents the fastest moving object in the dataset at 34.95 kb/s.*
 
 
 ```
@@ -85,7 +85,7 @@ In addition to its estimated approach proximity to Earth, 2015 TB145 is classifi
 
 ![](asteroids_files/figure-html/unnamed-chunk-4-1.png) 
 
-*Figure 2a. The asteroid 2015 TB145, highlighted in red, represents the closest approaching object to Earth included in the dataset.*
+*Figure 2. The asteroid 2015 TB145, highlighted in red, represents the closest approaching object to Earth included in the dataset.*
 
 
 ```

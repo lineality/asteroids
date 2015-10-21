@@ -75,7 +75,7 @@ fit <- lm(velocity ~ size, data)
 abline(fit)
 ```
 
-*Figure 1a. Visualizing the near Earth object database as velocity by diameter. The asteroid 2015 TB145 represents the fastest moving object in the dataset at 34.95 kb/s.*
+*Figure 1. Visualizing the near Earth object database as velocity by diameter. The asteroid 2015 TB145 represents the fastest moving object in the dataset at 34.95 kb/s.*
 
 ```{r, echo=FALSE}
 # Order data by velocity, descending.
@@ -97,7 +97,7 @@ fit <- lm(au ~ size, data)
 abline(fit)
 ```
 
-*Figure 2a. The asteroid 2015 TB145, highlighted in red, represents the closest approaching object to Earth included in the dataset.*
+*Figure 2. The asteroid 2015 TB145, highlighted in red, represents the closest approaching object to Earth included in the dataset.*
 
 ```{r, echo=FALSE}
 # Order data by distance, increasing
